@@ -2,9 +2,9 @@
 
 # 设置各变量
 UUID='570fd99e-5c36-4169-9782-6a458d93af32'
-VMESS_WSPATH='/vmess'
-VLESS_WSPATH='/vless'
-TROJAN_WSPATH='/trojan'
+VMESS_WSPATH='/570fd99e-5c36-4169-9782-6a458d93af32-vmess'
+VLESS_WSPATH='/570fd99e-5c36-4169-9782-6a458d93af32-vless'
+TROJAN_WSPATH='/570fd99e-5c36-4169-9782-6a458d93af32-trojan'
 SS_WSPATH='/shadowsocks'
 
 # 安装系统依赖
